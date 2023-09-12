@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Sat Oct 29 16:07:42 2022
+# Process ID: 3056
+# Current directory: D:/verilog_vivado/riscv_base_integer
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent4568 D:\verilog_vivado\riscv_base_integer\riscv_base_integer.xpr
+# Log file: D:/verilog_vivado/riscv_base_integer/vivado.log
+# Journal file: D:/verilog_vivado/riscv_base_integer\vivado.jou
+# Running On: DESKTOP-M2PIPK0, OS: Windows, CPU Frequency: 1800 MHz, CPU Physical cores: 4, Host memory: 8494 MB
+#-----------------------------------------------------------
+start_gui
+open_project D:/verilog_vivado/riscv_base_integer/riscv_base_integer.xpr
+update_compile_order -fileset sources_1
